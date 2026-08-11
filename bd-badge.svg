@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
+  <circle cx="150" cy="150" r="142" fill="#2F2E26"/>
+  <circle cx="150" cy="150" r="128" fill="none" stroke="#8A6A4A" stroke-width="1.5"/>
+  <circle cx="150" cy="150" r="118" fill="#33322A"/>
+
+  <path id="ringTopBDS" d="M 34,150 A 116,116 0 0 1 266,150" fill="none"/>
+  <path id="ringBottomBDS" d="M 262,154 A 112,112 0 0 1 38,154" fill="none"/>
+  <text font-family="Cinzel, Georgia, 'Times New Roman', serif" font-size="10" letter-spacing="1.8" fill="#F6F3ED">
+    <textPath href="#ringTopBDS" startOffset="50%" text-anchor="middle">BOSVELD DRAUGHTING SERVICE</textPath>
+  </text>
+  <text font-family="Cinzel, Georgia, 'Times New Roman', serif" font-size="11.5" letter-spacing="3" fill="#F6F3ED">
+    <textPath href="#ringBottomBDS" startOffset="50%" text-anchor="middle">LEPHALALE · THABAZIMBI</textPath>
+  </text>
+
+  <g transform="translate(150,162)">
+    <line x1="-4" y1="-62" x2="-4" y2="65" stroke="#F6F3ED" stroke-width="1" opacity="0.4"/>
+    <text x="7" y="48" font-size="120" font-family="Cinzel, Georgia, 'Times New Roman', serif" font-weight="600" fill="#C8B9A6" text-anchor="middle" opacity="0.9">D</text>
+    <text x="-25" y="48" font-size="120" font-family="Cinzel, Georgia, 'Times New Roman', serif" font-weight="600" fill="#F6F3ED" text-anchor="middle">B</text>
+  </g>
+</svg>
