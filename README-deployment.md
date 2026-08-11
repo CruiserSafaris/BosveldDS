@@ -11,7 +11,7 @@ The site is live at **https://www.bosvelddraughtingservice.co.za/** 🎉 — thi
 - `bosveld-logo-horizontal.png` — the wide logo lockup (dark text/gold), used in the site header, also handy for letterheads/documents on a light/white background
 - `bosveld-logo-square.png` — the stacked square logo (dark text/gold), good as a social profile picture or anywhere on a light/white background
 - `bosveld-logo-horizontal-white.png` — the same wide logo lockup in white/gold with a transparent background, used in the footer (which is dark)
-- `bosveld-logo-square-white.png` — the same stacked square logo in white/gold with a transparent background, used in the hero section (which is dark)
+- `bosveld-logo-square-white.png` — the same stacked square logo in white/gold with a transparent background, not currently used on the site but handy for anything else on a dark background (social graphics, signage, etc.)
 - `hero-banner.jpg` — the bushveld/drafting-desk banner photo shown at the top of the homepage
 
 All SEO-relevant addresses (canonical link, Open Graph tags, structured data, sitemap, robots.txt) now point to `https://www.bosvelddraughtingservice.co.za/`, and every email reference on the site uses `johan@bosvelddraughtingservice.co.za`.
